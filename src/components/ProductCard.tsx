@@ -1,5 +1,4 @@
 import { motion } from 'framer-motion';
-import { MessageCircle } from 'lucide-react';
 
 interface ProductCardProps {
   name: string;
