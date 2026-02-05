@@ -23,7 +23,7 @@ export function ProductCard({ name, description, price, image, delay = 0 }: Prod
       className="group relative overflow-hidden rounded-3xl bg-white/10 backdrop-blur-md border border-white/20 p-6 transition-all hover:shadow-2xl hover:shadow-[var(--tech-neon-green)]/10"
     >
       {/* Image Container */}
-      <div className="relative overflow-hidden rounded-2xl bg-white/5 mb-4 h-65">
+      <div className="relative overflow-hidden rounded-2xl bg-white/5 mb-4 h-75">
         <motion.img
           whileHover={{ scale: 1.1 }}
           transition={{ duration: 0.4 }}
