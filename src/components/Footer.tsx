@@ -26,7 +26,7 @@ export function Footer() {
               Catálogo visual, sem compra direta.
             </p>
             <p className="text-white/40 text-xs mt-1">
-              © 2026 IN Tech Store. Todos os direitos reservados.
+              © {new Date().getFullYear()} IN Tech Store. Todos os direitos reservados.
             </p>
           </div>
         </div>
