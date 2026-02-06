@@ -149,7 +149,7 @@ export default function App() {
           rotation={0}
         />
         {/* Overlay para suavizar e dar profundidade */}
-        <div className="absolute inset-0 bg-gradient-to-b from-blue/950/20 via-transparent to-black/60 pointer-events-none" />
+        <div className="absolute inset-0 bg-gradient-to-b from-[#1e293b]/20 via-[#020617]/0 to-[#000000]/60 pointer-events-none" />
       </div>
 
       {/* CONTEÚDO DA PÁGINA */}
