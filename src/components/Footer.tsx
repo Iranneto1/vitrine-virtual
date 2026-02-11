@@ -27,6 +27,8 @@ export function Footer() {
             </p>
             <p className="text-white/40 text-xs mt-1">
               © {new Date().getFullYear()} IN Tech Store. Todos os direitos reservados.
+              <br />
+              CNPJ 65.077.899/0001-96
             </p>
           </div>
         </div>
