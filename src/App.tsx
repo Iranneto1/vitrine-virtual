@@ -1,5 +1,4 @@
 import { motion } from "framer-motion";
-import { Header } from "./components/Header";
 import { ProductCard } from "./components/ProductCard";
 import { Footer } from "./components/Footer";
 import Silk from "./components/Silk";
@@ -153,7 +152,7 @@ export default function App() {
       </div>
 
       {/* CONTEÚDO DA PÁGINA */}
-      <Header />
+      
 
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         {/* Title Section */}
